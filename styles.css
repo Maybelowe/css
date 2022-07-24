@@ -3,34 +3,6 @@ body {
     color: aqua;
 }
 
-.button-1 {
-background-color: #f8f8f8;
-border-radius: 5px;
-border-style: none;
-box-sizing: border-box;
-color: #000000;
-cursor: pointer;
-display: inline-block;
-font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-font-size: 14px;
-font-weight: 500;
-height: 30px;
-line-height: 20px;
-list-style: none;
-margin: 0;
-outline: none;
-padding: 5px 5px;
-position: relative;
-text-align: center;
-text-decoration: none;
-transition: color 100ms;
-vertical-align: baseline;
-user-select: none;
--webkit-user-select: none;
-touch-action: manipulation;
-}
-
-.button-1:hover,
-.button-1:focus {
-background-color: #ffffff;
+h1 {
+    background-color: red;
 }
